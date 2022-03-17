@@ -1,4 +1,6 @@
             body {
+                margin-left: 10%;
+                width: 90%;
                 background-color: #b8f3ff;
             }
             
@@ -48,7 +50,7 @@
                 margin-left: 2%;
                 background-color: #006494;
                 justify-content: left;
-                padding-bottom: 65px;
+                padding-bottom: 69px;
                 color: #ffffff;
             }
             
